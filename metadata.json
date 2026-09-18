@@ -1,0 +1,6 @@
+{
+  "name": "Pencatatan Aset SMAN 1 Grogol",
+  "description": "Aplikasi pencatatan aset inventaris SMAN 1 Grogol Kediri dengan cetak label barcode resmi dan rekap spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
